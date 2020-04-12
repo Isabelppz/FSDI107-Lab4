@@ -1,0 +1,22 @@
+.hidden{
+    display:none;
+}
+
+
+h1{
+    font-family: 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font: size 45px;
+    color:gray;
+    text-shadow:3px 2px rgb(0, 0, 0);
+    letter-spacing:5px;
+    background-image: url(img/banner.jpg);
+    height: 400px;
+    background-position: top center;
+    padding-top:100px;
+}
+body{
+    background-color: #dddddd;
+    width:100%;
+}
+
